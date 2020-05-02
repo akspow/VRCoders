@@ -7,7 +7,7 @@ An android application based on Virtual reality to teach students programming co
 1. Install f1.apk in your android device
 2. Go to App settings -> Manage Permissions -> Give access to Microphone and Storage
 3. Turn on your internet
-4. Launch the application, plug your device into a VR cardboard headset
+4. Launch the application, plug your device into a VR cardboard headset and plug in your earphones
 5. Happy Learning!
 
 ## Snapshots
